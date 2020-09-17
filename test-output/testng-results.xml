@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22689" started-at="2020-09-17T15:17:09Z" finished-at="2020-09-17T15:17:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22689" started-at="2020-09-17T15:17:09Z" finished-at="2020-09-17T15:17:32Z">
+      <class name="com.openMRS.TestNGScripts.LoginTest">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.openMRS.TestNGScripts.LoginTest@7c0c77c7]" name="LoginTest" duration-ms="19062" started-at="2020-09-17T15:17:09Z" finished-at="2020-09-17T15:17:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="takeScreenshot()[pri:0, instance:com.openMRS.TestNGScripts.LoginTest@7c0c77c7]" name="takeScreenshot" duration-ms="900" started-at="2020-09-17T15:17:28Z" finished-at="2020-09-17T15:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.openMRS.TestNGScripts.LoginTest@7c0c77c7]" name="closeBrowser" is-config="true" duration-ms="2683" started-at="2020-09-17T15:17:29Z" finished-at="2020-09-17T15:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.openMRS.TestNGScripts.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
